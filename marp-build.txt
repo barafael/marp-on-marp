@@ -1,0 +1,1 @@
+marp --allow-local-files --pdf --pdf-outlines.headings true --pdf-outlines.pages true *.md --html true --theme rhea.css
